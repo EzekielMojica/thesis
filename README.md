@@ -4,7 +4,7 @@ An Online Management Information System made using HTML, CSS, JavaScript, JQuery
 Below are list of users and their passwords:
 
 | Username | Password |
-|:--------:|:--------:|
+|--------|:--------:|
 | admin | admin |
 | studentwelfare | 123456 |
 | guidance | 123456 |
